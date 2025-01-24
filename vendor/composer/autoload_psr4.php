@@ -11,6 +11,6 @@ return array(
     'Psr\\Http\\Server\\' => array($vendorDir . '/psr/http-server-handler/src', $vendorDir . '/psr/http-server-middleware/src'),
     'Psr\\Http\\Message\\' => array($vendorDir . '/psr/http-factory/src', $vendorDir . '/psr/http-message/src'),
     'Psr\\Container\\' => array($vendorDir . '/psr/container/src'),
+    'Hcode\\' => array($vendorDir . '/hcodebr/php-classes/src'),
     'FastRoute\\' => array($vendorDir . '/nikic/fast-route/src'),
-    '' => array($vendorDir . '/hcodebr/php-classes/src'),
 );
