@@ -1,6 +1,4 @@
-<?php 
-
-namespace Hcode\DB;
+<?php
 
 class Sql {
 
@@ -8,6 +6,8 @@ class Sql {
 	const USERNAME = "root";
 	const PASSWORD = "";
 	const DBNAME = "db_ecommerce";
+
+	//namespace Hcode\DB;
 
 	private $conn;
 
