@@ -1,0 +1,19 @@
+{
+    "name": "lucas34-nic/ecommerce",
+    "authors": [
+        {
+            "name": "Will",
+            "email": "lucasloteca34@gmail.com"
+        }
+    ],
+    "require": {
+    	"phpmailer/phpmailer":"5.2.22",
+    	"slim/slim":"2.0",
+    	"rain/raintpl":"3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "vendor\\lucas34-nic\\php-classes\\src"
+        }
+    }
+}
