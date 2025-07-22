@@ -1,8 +1,8 @@
 {
-    "name": "lucas34-nic/ecommerce",
+    "name": "lucas34-nic/ecommerce2",
     "authors": [
         {
-            "name": "Will",
+            "name": "Hcode Treinamentos",
             "email": "lucasloteca34@gmail.com"
         }
     ],
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\lucas34-nic\\php-classes\\src"
+            "": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }

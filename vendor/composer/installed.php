@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'lucas34-nic/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '4732339c1a1e63e5cbc35e386034cbeaffb8f1ca',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'lucas34-nic/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '4732339c1a1e63e5cbc35e386034cbeaffb8f1ca',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
